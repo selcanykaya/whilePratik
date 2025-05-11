@@ -1,1 +1,1 @@
-# whilePratik
+C# Uygulama dili ile While döngü pratiği.
